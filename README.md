@@ -1,6 +1,6 @@
 # 📟 Matriz de LEDs 8x8 con PIC16F887
 
-Este repositorio contiene el código fuente y la simulación para controlar una matriz de LEDs de 8x8 utilizando el microcontrolador **PIC16F887**. El proyecto implementa la técnica de **multiplexación** para mostrar un mensaje de texto con desplazamiento ("scroll") horizontal.
+Este repositorio contiene el código fuente y la simulación para controlar una matriz de LEDs de 8x8 utilizando el microcontrolador **PIC16F887**. El proyecto implementa la técnica de **multiplexación** para mostrar un mensaje de texto con desplazamiento ("scroll").
 
 ## 🚀 Características del Proyecto
 * **Microcontrolador:** PIC16F887.
@@ -14,7 +14,6 @@ Este repositorio contiene el código fuente y la simulación para controlar una 
 * Matriz de LEDs 8x8.
 * Resistencias de protección.
 * Fuente de 5V.
-* *(Opcional: Transistores NPN para el manejo de corriente en columnas).*
 
 ## 💻 Explicación del Código
 El sistema utiliza un barrido de columnas a alta velocidad.
@@ -23,7 +22,7 @@ El sistema utiliza un barrido de columnas a alta velocidad.
 3.  **Scroll:** Un bucle principal desplaza el puntero del mensaje para crear el efecto de movimiento.
 
 ## 📸 Capturas
-**
+**https://youtu.be/7VQh5AwJ2nM
 
 ## 👨‍💻 Autor
 **Jhonatan Jazael Ontañon Ortiz**
