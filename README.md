@@ -23,12 +23,7 @@ El sistema utiliza un barrido de columnas a alta velocidad.
 3.  **Scroll:** Un bucle principal desplaza el puntero del mensaje para crear el efecto de movimiento.
 
 ## 📸 Capturas
-*(Aquí puedes subir la imagen de tu simulación en Proteus que me mostraste)*
+**
 
 ## 👨‍💻 Autor
 **Jhonatan Jazael Ontañon Ortiz**
-*Estudiante de Ingeniería en Sistemas Computacionales | P.T.B en Informática*
-*Entusiasta de la tecnología y la programación embebida.*
-
----
-*"La ingeniería es la poesía de la lógica."* 🖤💖
